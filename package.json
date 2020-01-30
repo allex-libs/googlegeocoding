@@ -1,0 +1,25 @@
+{
+  "name": "allex_googlegeocodinglib",
+  "version": "1.0.0",
+  "description": "AllexJS library that makes use of Google's geocoding service",
+  "main": "index.js",
+  "scripts": {
+    "test": "allex-mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allex-libs/googlegeocoding.git"
+  },
+  "keywords": [
+    "ecosystem:AllexJS",
+    "google",
+    "geocoding",
+    "lib"
+  ],
+  "author": "Andrija Petrovic <andrija.hers@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/allex-libs/googlegeocoding/issues"
+  },
+  "homepage": "https://github.com/allex-libs/googlegeocoding#readme"
+}
